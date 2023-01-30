@@ -1,0 +1,23 @@
+header {
+  background-color: blue;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+header button {
+  background: #ae00ff;
+}
+
+/*
+header h1 {
+  color: $textcolor;
+}
+*/
+header button {
+  background: #ae00ff;
+}
+/*# sourceMappingURL=style.css.map */
